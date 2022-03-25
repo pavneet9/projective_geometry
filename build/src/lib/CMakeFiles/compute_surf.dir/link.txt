@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../results/lib/libcompute_surf.a  CMakeFiles/compute_surf.dir/compute_surf.cpp.o
+/usr/bin/ranlib ../../../results/lib/libcompute_surf.a

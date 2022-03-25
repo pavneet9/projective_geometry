@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/pavneet/C-tuorials/openCV/build/src/apps",
+  "command": "/usr/bin/c++   -I/home/pavneet/C-tuorials/openCV/src -I/home/pavneet/C-tuorials/openCV/src/lib -isystem /usr/local/include/opencv4  -Wall -Wextra -O3   -std=gnu++17 -o CMakeFiles/main.dir/main.cpp.o -c /home/pavneet/C-tuorials/openCV/src/apps/main.cpp",
+  "file": "/home/pavneet/C-tuorials/openCV/src/apps/main.cpp"
+},
+{
+  "directory": "/home/pavneet/C-tuorials/openCV/build/src/lib",
+  "command": "/usr/bin/c++   -I/home/pavneet/C-tuorials/openCV/src -I/home/pavneet/C-tuorials/openCV/src/lib -isystem /usr/local/include/opencv4  -Wall -Wextra -O3   -std=gnu++17 -o CMakeFiles/compute_surf.dir/compute_surf.cpp.o -c /home/pavneet/C-tuorials/openCV/src/lib/compute_surf.cpp",
+  "file": "/home/pavneet/C-tuorials/openCV/src/lib/compute_surf.cpp"
+}
+]

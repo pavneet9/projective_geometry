@@ -1,0 +1,10 @@
+/home/pavneet/C-tuorials/openCV/build/CMakeFiles/rebuild_cache.dir
+/home/pavneet/C-tuorials/openCV/build/CMakeFiles/edit_cache.dir
+/home/pavneet/C-tuorials/openCV/build/src/CMakeFiles/rebuild_cache.dir
+/home/pavneet/C-tuorials/openCV/build/src/CMakeFiles/edit_cache.dir
+/home/pavneet/C-tuorials/openCV/build/src/apps/CMakeFiles/rebuild_cache.dir
+/home/pavneet/C-tuorials/openCV/build/src/apps/CMakeFiles/edit_cache.dir
+/home/pavneet/C-tuorials/openCV/build/src/apps/CMakeFiles/main.dir
+/home/pavneet/C-tuorials/openCV/build/src/lib/CMakeFiles/rebuild_cache.dir
+/home/pavneet/C-tuorials/openCV/build/src/lib/CMakeFiles/edit_cache.dir
+/home/pavneet/C-tuorials/openCV/build/src/lib/CMakeFiles/compute_surf.dir
